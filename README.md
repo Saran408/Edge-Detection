@@ -1,4 +1,7 @@
-# Edge-Detection
+### EXP NO: 07
+### DATE:
+
+# <p align='center'>Edge-Detection</p>
 ## Aim:
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
 
@@ -81,13 +84,8 @@ plt.show()
 ### SOBEL EDGE DETECTOR
 ![image](https://user-images.githubusercontent.com/75235427/168743079-15fb2a18-a566-4bbb-b8b2-7b129c3749ad.png)
 
-
-
-
 ### LAPLACIAN EDGE DETECTOR
 ![image](https://user-images.githubusercontent.com/75235427/168742843-5336e2c5-2e03-472f-b3e4-574d336646cc.png)
-
-
 
 ### CANNY EDGE DETECTOR
 ![image](https://user-images.githubusercontent.com/75235427/168742881-25ab7f38-dd01-488d-bd35-82dda5ce8b0a.png)
